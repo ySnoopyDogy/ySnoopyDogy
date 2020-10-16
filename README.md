@@ -6,5 +6,5 @@ Sabia que eu tenho um bot open source para Discord? [Este é o repósitório del
 
 Algumas estatísticas minhas:
 
-![ySnoopyDogy github stats](https://github-readme-stats.vercel.app/api?username=ySnoopyDogy)
-![ySnoopyDogy github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ySnoopyDogy&layout=compact)
+![ySnoopyDogy github stats](https://github-readme-stats.vercel.app/api?username=ySnoopyDogy&theme=shades-of-purple&show_icons=true)
+![ySnoopyDogy github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ySnoopyDogy&layout=compact&theme=shades-of-purple&show_icons=true)
