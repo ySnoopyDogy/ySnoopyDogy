@@ -1,6 +1,6 @@
 # Oizinho 👋 
 
-Oi, meu nome é Luxanna, conhecida também como Lux, e sou só uma estudante do ensino médio que programa por diversão >.<
+Oi, meu nome é Lux, estou no ensino médio e programo por diversão
 
 Sabia que eu tenho um bot open source para Discord? [Este é o repósitório dela](https://github.com/ySnoopyDogy/MenheraBot) 
 
