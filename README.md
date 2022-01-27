@@ -4,7 +4,7 @@
 <h1 align="center">💖 Luxanna Crownguard 💖</h1>
 
   <p align="center">
-    🧉 A brazilian girl who loves to code and drinking chimarrão 🧉
+    🧉 A brazilian young who loves to code and drinking chimarrão 🧉
     <!---I know that `br` is not the best way of do it, but i just think on that-->
     <br />
     <br />
