@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.redd.it/e3crcw0hseq51.jpg">
 </p>
-<h1 align="center">💖 Luxanna Crownguard 💖</h1>
+<h1 align="center">💖 Luan Caliel 💖</h1>
 
   <p align="center">
     🧉 A brazilian young who loves to code and drinking chimarrão 🧉
@@ -13,7 +13,7 @@
   
 ## ```$ whoami ```
 
-- 🏳️‍🌈 My social name is Luxanna Crownguard and I am 17 years old. 
+- 🏳️‍🌈 Users may know me as Luxanna Crownguard. I am 18 years old. 
 - 🇧🇷 I live in the south of Brazil. I love to drink our native drink [chimarrão](https://pt.wikipedia.org/wiki/Chimarr%C3%A3o).
 - ❄️ I love cold, like yooo it is so good to code wrapped in a duvet.
 - 🥦 Broccoli is the best vegetable.
@@ -28,7 +28,7 @@
 
 ## ```$ ssh root@future.interests ```
 
-- 🍧 I wanna use Elixir and GoLang in a near future.
+- 🍧 I wanna use Rust in a near future.
 - 🗄 I love database and stuff, maybe I actually want to be a DevOps...
 - 🔐 Websockets, HTTP and all other conection types, I want to learn all.
 - 💵 I want to get Hired with backend.
