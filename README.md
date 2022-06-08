@@ -17,7 +17,6 @@
 - 🇧🇷 I live in the south of Brazil. I love to drink our native drink [chimarrão](https://pt.wikipedia.org/wiki/Chimarr%C3%A3o).
 - ❄️ I love cold, like yooo it is so good to code wrapped in a duvet.
 - 🥦 Broccoli is the best vegetable.
-- 🇷 I Mono Veigar 🤏🏻
 
 ## ```$ cd ~/repos```
 
@@ -25,6 +24,13 @@
 - 👩🏻‍🦰 I like backend, so most of my [projects](https://github.com/ySnoopyDogy?tab=repositories) are backend, but not only.
 - 🗃 I am passionate with POO, it's more like a personal thing, it comes from my childhood, but I'm interested with FP.
 - ☕️ As much as I don't use Java anymore, this is my eternal love language, like POO.
+
+## ```$ cat skills.txt```
+
+- ⌚️ I have a subject of microprocessed systems, where I learn and create embedded systems for microcontrollers with C.
+- ⚙️ Another subject I have is industrial automation, my favorite, we program systems for PLC following the [IEC 61131 standard](https://en.wikipedia.org/wiki/IEC_61131)
+- 📡 I manage a VPS with Ubuntu Server, also use SSH, Nginx, Docker and Cloudflare with it.
+- 🔮 I Mono Veigar, even have a [tattoo of him](https://i.imgur.com/dz6HMid.png) 
 
 ## ```$ ssh root@future.interests ```
 
