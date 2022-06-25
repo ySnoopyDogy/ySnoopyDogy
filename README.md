@@ -44,3 +44,7 @@
 - 📬 You can send me an Email: [luxanna@menherabot.xyz](mailto:luxanna@menherabot.xyz)
 - 🐦 Here is my Twitter [Luxanna_Dev](https://twitter.com/Luxanna_Dev)
 - 🖤 What about Discord? [Luxanna#5757](https://discord.com/invite/fZMdQbA)
+
+## ```$ SELECT stats FROM ySnoopyDogy```
+![Weekly](https://github-readme-stats.vercel.app/api/wakatime?username=ySnoopyDogy&custom_title=I%20Programmed%20This%20Week...&count_private=true&compact=true&theme=shades-of-purple&langs_count=5)
+![Stats](https://github-readme-stats.vercel.app/api?username=ySnoopyDogy&show_icons=true&theme=shades-of-purple)
