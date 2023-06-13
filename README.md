@@ -40,7 +40,7 @@
 
 - 📬 You can send me an Email: [luxanna@menherabot.xyz](mailto:luxanna@menherabot.xyz)
 - 🐦 Here is my Twitter [Luxanna_Dev](https://twitter.com/Luxanna_Dev)
-- 🖤 What about Discord? [Luxanna#5757](https://discord.com/invite/fZMdQbA)
+- 🖤 What about Discord? [@ysnoopydogy](https://discord.com/invite/fZMdQbA)
 
 ## ```$ SELECT stats FROM ySnoopyDogy```
 ![Stats](https://github-readme-stats.vercel.app/api?username=ySnoopyDogy&show_icons=true&theme=shades-of-purple)
