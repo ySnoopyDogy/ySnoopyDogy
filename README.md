@@ -34,7 +34,7 @@
 
 - 🍧 I wanna use Rust in a near future.
 - 🔐 I really want to get better at testing software.
-- 💵 Get Hired 🚀
+- 💵 ~~Get Hired 🚀~~ Working 💪
 
 ## ```$ curl http://contact.me ```
 
