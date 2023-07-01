@@ -41,6 +41,3 @@
 - 📬 You can send me an Email: [contact@luancaliel.dev](mailto:contact@luancaliel.dev)
 - 🐦 Here is my Twitter [Luxanna_Dev](https://twitter.com/Luxanna_Dev)
 - 🖤 What about Discord? [@ysnoopydogy](https://discord.com/invite/fZMdQbA)
-
-## ```$ SELECT stats FROM ySnoopyDogy```
-![Stats](https://github-readme-stats.vercel.app/api?username=ySnoopyDogy&show_icons=true&theme=shades-of-purple)
