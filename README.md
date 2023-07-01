@@ -13,7 +13,7 @@
   
 ## ```$ whoami ```
 
-- 🏳️‍🌈 Users may know me as Luxanna Crownguard. I am 18 years old. 
+- 🏳️‍🌈 Users may know me as Luxanna Crownguard. I am 19 years old. 
 - 🇧🇷 I live in the south of Brazil. I love to drink our native drink [chimarrão](https://pt.wikipedia.org/wiki/Chimarr%C3%A3o).
 - ❄️ I love cold, like yooo it is so good to code wrapped in a duvet.
 - 🔮 I am a Mono Veigar, even have a [tattoo of him](https://i.imgur.com/dz6HMid.png) 
@@ -38,7 +38,7 @@
 
 ## ```$ curl http://contact.me ```
 
-- 📬 You can send me an Email: [luxanna@menherabot.xyz](mailto:luxanna@menherabot.xyz)
+- 📬 You can send me an Email: [contact@luancaliel.dev](mailto:contact@luancaliel.dev)
 - 🐦 Here is my Twitter [Luxanna_Dev](https://twitter.com/Luxanna_Dev)
 - 🖤 What about Discord? [@ysnoopydogy](https://discord.com/invite/fZMdQbA)
 
