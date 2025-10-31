@@ -13,7 +13,7 @@
   
 ## ```$ whoami ```
 
-- 🏳️‍🌈 Users may know me as Luxanna Crownguard. I am 19 years old. 
+- 🏳️‍🌈 Users may know me as Luxanna Crownguard. I am 21 years old. 
 - 🇧🇷 I live in the south of Brazil. I love to drink our native drink [chimarrão](https://pt.wikipedia.org/wiki/Chimarr%C3%A3o).
 - ❄️ I love cold, like yooo it is so good to code wrapped in a duvet.
 - 🔮 I am a Mono Veigar, even have a [tattoo of him](https://i.imgur.com/dz6HMid.png) 
@@ -26,7 +26,7 @@
 ## ```$ cat skills.txt```
 
 - 📡 I manage a VPS with Ubuntu Server, also use SSH, Nginx, Docker and Cloudflare with it.
-- ✨ I've been using TypeScript for the last 2 years, always trying to do it with the best practices.
+- ✨ I've been using TypeScript for the last 6 years, always trying to do it with the best practices.
 - 📞 My mom says that I am very communicative. 😆
 - 🗃 I have experience using MongoDB, PostgreSQL, Redis, and more! Come check my [main project](https://github.com/MenheraBot) for more
 
